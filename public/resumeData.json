@@ -1,45 +1,35 @@
 {
   "main": {
     "name": "Nishil Faldu",
-    "occupation": "CEO of Coffee Company",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "I am a student of Computer Science",
+    "description": "I love programming, reading, traveling, and cafe-exploring",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi There! I am a junior at University of Cincinnati (UC) pursuing a Bachelor’s degree in Computer Science. I'm interested in using my skills at the intersection of innovation and technology. My current research interests revolve around machine learning, with a particular focus on natural language processing (NLP) and computer vision (CV). In my free time, I can be found trying different coffee shops, reading books, or taking nature walks.",
+    "contactmessage": "Get in touch with me to work on cool projects!",
+    "email": "faldund@outlook.com",
+    "phone": "+1 (513) 488-0823",
     "address": {
-      "street": "123 Dev Lane",
+      "street": "45W Daniels Street",
       "city": "Cincinnati",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "state": "Ohio",
+      "zip": "45219"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/nishil-faldu/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/nishilfaldu/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/nishilfaldu",
         "className": "fa fa-github"
       }
     ]
@@ -48,10 +38,10 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "University of Cincinnati - UC",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "June 2024",
+        "description": "Graduated Not Yet"
       }
     ],
     "work": [
@@ -88,34 +78,46 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
+        "title": "Netflix Clone (React JS)",
+        "category": "hello world!",
         "image": "snapchat.jpg",
         "url": "https://youtu.be/1kGISk5ft2w"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Statistics Dashboard (React JS)",
         "category": "",
         "image": "gmail.jpg",
         "url": "https://youtu.be/b7nrXjS6Dqs"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "In/Site (React JS)",
         "category": "",
         "image": "linkedin.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Campaign Website (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Save The Roadster (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Amazing!",
+        "user": "Ezra Edgerton"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Amazing!",
+        "user": "James Lee"
       }
     ]
   }

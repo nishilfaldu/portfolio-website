@@ -14,8 +14,8 @@
       "state": "Ohio",
       "zip": "45219"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.linkedin.com/in/nishil-faldu/",
+    "resumedownload": "https://www.linkedin.com/in/nishil-faldu/",
     "social": [
       {
         "name": "linkedin",
@@ -46,10 +46,28 @@
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Digital Scholarship Center",
+        "title": "Software Engineering Intern",
+        "years": "January 2022 - April 2022",
+        "description": "Contributed to web application development into the current machine learning platform"
+      },
+      {
+        "company": "Intelligent Robotics and Autonomous Systems Lab",
+        "title": "Computer Vision Research Intern",
+        "years": "January 2022 - April 2022",
+        "description": "Aided researchers to develop a robot that can open doors and charge itself autonomously"
+      },
+      {
+        "company": "Digital Scholarship Center",
+        "title": "Natural Language Processing Research Intern",
+        "years": "January 2021 - December 2021",
+        "description": "Assisted the research team with model training and API deployment of models"
+      },
+      {
+        "company": "Procter and Gamble",
+        "title": "Modeling and Simulation Intern",
+        "years": "May 2021 - August 2021",
+        "description": "Modeled and simulated one of the automatic plants of P&G Plant Simulation software"
       }
     ],
     "skills": [

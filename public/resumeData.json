@@ -96,33 +96,33 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Netflix Clone (React JS)",
-        "category": "hello world!",
-        "image": "snapchat.jpg",
+        "title": "Netflix Clone",
+        "category": "React, Redux, Firebase",
+        "image": "netflixclone.jpg",
         "url": "https://youtu.be/1kGISk5ft2w"
       },
       {
-        "title": "Statistics Dashboard (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
+        "title": "Save The Roadster",
+        "category": "C++",
+        "image": "campaignwebsite.jpg",
         "url": "https://youtu.be/b7nrXjS6Dqs"
       },
       {
-        "title": "In/Site (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
+        "title": "In/Site",
+        "category": "React, Python, Electron, TensorFlow",
+        "image": "netflixclone.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
       },
       {
-        "title": "Campaign Website (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
+        "title": "Campaign Website",
+        "category": "React, Netlify, HTML, CSS, SCSS",
+        "image": "campaignwebsite.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
       },
       {
-        "title": "Save The Roadster (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
+        "title": "Hackathon Dashboard",
+        "category": "React, HTML, CSS",
+        "image": "reactdashboard.jpg",
         "url": "https://youtu.be/b7nrXjS6Dqs"
       }
     ]

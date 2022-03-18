@@ -4,7 +4,7 @@
     "occupation": "I am a student of Computer Science",
     "description": "I love programming, reading, traveling, and cafe-exploring",
     "image": "profilepic.jpg",
-    "bio": "Hi There! I am a junior at University of Cincinnati (UC) pursuing a Bachelor’s degree in Computer Science. I'm interested in using my skills at the intersection of innovation and technology. My current research interests revolve around machine learning, with a particular focus on natural language processing (NLP) and computer vision (CV). In my free time, I can be found trying different coffee shops, reading books, or taking nature walks.",
+    "bio": "Hi there! My name is Nishil and I enjoy creating things. My interest in computers started back in late 2019 when I decided to take my first programming course - turns out I did not do well in that class. Fast-forward to today, and I have had the privilege of working at a huge company, a joint venture of libraries and colleges, and a student-led research. My main focus these days is building digital experiences through web applications and machine learning models for the community. In my free time, I can be found trying different coffee shops, reading books, or taking nature walks.",
     "contactmessage": "Get in touch with me to work on cool projects!",
     "email": "faldund@outlook.com",
     "phone": "+1 (513) 488-0823",
@@ -99,31 +99,31 @@
         "title": "Netflix Clone",
         "category": "React, Redux, Firebase",
         "image": "netflixclone.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "url": "https://github.com/nishilfaldu/netflix-clone"
       },
       {
         "title": "Save The Roadster",
         "category": "C++",
         "image": "campaignwebsite.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://github.com/nishilfaldu/save-the-roadster"
       },
       {
         "title": "In/Site",
         "category": "React, Python, Electron, TensorFlow",
         "image": "netflixclone.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "url": "https://github.com/nishilfaldu/In-Site"
       },
       {
         "title": "Campaign Website",
         "category": "React, Netlify, HTML, CSS, SCSS",
         "image": "campaignwebsite.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "url": "https://github.com/nishilfaldu/campaign-website"
       },
       {
         "title": "Hackathon Dashboard",
         "category": "React, HTML, CSS",
         "image": "reactdashboard.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://github.com/nishilfaldu/react-dashboard"
       }
     ]
   },

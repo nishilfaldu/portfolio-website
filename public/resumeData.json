@@ -15,7 +15,7 @@
       "zip": "45219"
     },
     "website": "https://www.linkedin.com/in/nishil-faldu/",
-    "resumedownload": "https://www.linkedin.com/in/nishil-faldu/",
+    "resumedownload": "./resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -54,7 +54,7 @@
       {
         "company": "Intelligent Robotics and Autonomous Systems Lab",
         "title": "Computer Vision Research Intern",
-        "years": "January 2022 - April 2022",
+        "years": "August 2021 - November 2022",
         "description": "Aided researchers to develop a robot that can open doors and charge itself autonomously"
       },
       {
@@ -104,14 +104,8 @@
       {
         "title": "Save The Roadster",
         "category": "C++",
-        "image": "campaignwebsite.jpg",
+        "image": "save.jpg",
         "url": "https://github.com/nishilfaldu/save-the-roadster"
-      },
-      {
-        "title": "In/Site",
-        "category": "React, Python, Electron, TensorFlow",
-        "image": "netflixclone.jpg",
-        "url": "https://github.com/nishilfaldu/In-Site"
       },
       {
         "title": "Campaign Website",
@@ -124,6 +118,12 @@
         "category": "React, HTML, CSS",
         "image": "reactdashboard.jpg",
         "url": "https://github.com/nishilfaldu/react-dashboard"
+      },
+      {
+        "title": "In/Site",
+        "category": "React, Python, Electron, TensorFlow",
+        "image": "insite.jpg",
+        "url": "https://github.com/nishilfaldu/In-Site"
       }
     ]
   },
@@ -132,10 +132,6 @@
       {
         "text": "Amazing!",
         "user": "Ezra Edgerton"
-      },
-      {
-        "text": "Amazing!",
-        "user": "James Lee"
       }
     ]
   }

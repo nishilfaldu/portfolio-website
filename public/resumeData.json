@@ -59,7 +59,7 @@
       },
       {
         "company": "Digital Scholarship Center",
-        "title": "Natural Language Processing Research Intern",
+        "title": "Machine Learning Intern",
         "years": "January 2021 - December 2021",
         "description": "Assisted the research team with model training and API deployment of models"
       },
@@ -124,6 +124,18 @@
         "category": "React, Python, Electron, TensorFlow",
         "image": "insite.jpg",
         "url": "https://github.com/nishilfaldu/In-Site"
+      },
+      {
+        "title": "The Poetry Project",
+        "category": "Django, Python, PyTorch, HTML, CSS, JavaScript",
+        "image": "poetryproject.png",
+        "url": "https://github.com/ucdscenter/poetry_project"
+      },
+      {
+        "title": "TF Models Server",
+        "category": "Python, TensorFlow, Bash, Flask, uWSGI",
+        "image": "tfmodelsserver.png",
+        "url": "https://github.com/ucdscenter/tf-models-server"
       }
     ]
   },

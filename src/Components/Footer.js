@@ -21,9 +21,15 @@ const Footer = ({ data }) => {
 
           <ul className="copyright">
             <li>
-              Made by{" "}
-              <a title="Nishil Faldu" href="http://www.papareact.com/">
-                Nishil Faldu
+            © Copyright 2022{" "}
+              <a title="Nishil Faldu" href="/">
+              Nishil Faldu
+              </a>
+            </li>
+            <li>
+              Design by{" "}
+              <a title="Nishil Faldu" href="https://www.styleshout.com">
+              Styleshout
               </a>
             </li>
           </ul>

@@ -99,7 +99,7 @@
         "title": "Netflix Clone",
         "category": "React, Redux, Firebase",
         "image": "netflixclone.jpg",
-        "url": "https://github.com/nishilfaldu/netflix-clone"
+        "url": "https://master--delicate-genie-b625bc.netlify.app"
       },
       {
         "title": "Save The Roadster",
@@ -111,13 +111,13 @@
         "title": "Campaign Website",
         "category": "React, Netlify, HTML, CSS, SCSS",
         "image": "campaignwebsite.jpg",
-        "url": "https://github.com/nishilfaldu/campaign-website"
+        "url": "https://www.baddamlukose2022.com"
       },
       {
-        "title": "Hackathon Dashboard",
+        "title": "Hackathon Dashboard (RevUC)",
         "category": "React, HTML, CSS",
         "image": "reactdashboard.jpg",
-        "url": "https://github.com/nishilfaldu/react-dashboard"
+        "url": "https://stats.revolutionuc.com"
       },
       {
         "title": "In/Site",
@@ -135,7 +135,13 @@
         "title": "TF Models Server",
         "category": "Python, TensorFlow, Bash, Flask, uWSGI",
         "image": "tfmodelsserver.png",
-        "url": "https://github.com/ucdscenter/tf-models-server"
+        "url": "https://modelofmodels.io/searcher/vis/?method=sentiment&q_pk=7818"
+      },
+      {
+        "title": "Hackathon Dashboard (MakeUC)",
+        "category": "Python, TensorFlow, Bash, Flask, uWSGI",
+        "image": "reactdashboard2.jpg",
+        "url": "https://stats.makeuc.io"
       }
     ]
   },
